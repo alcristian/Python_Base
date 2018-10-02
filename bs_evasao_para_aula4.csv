@@ -1,0 +1,371 @@
+﻿curso;disciplina;grau_exig;modalidade;media_notas_ant;num_disc_evadidas;mensal_atraso;sexo;idade;dist;sem;tamanho_turma;sit
+Administração;Estratégias de marketing;1;2;4.5;6;1;F;24;1;6;50;1
+Gestão da Produção;Matemática financeira;2;1;4.6;7;2;F;25;1;3;35;1
+Gestão da Produção;Métodos Estatísticos;3;2;4.8;5;4;M;22;3;4;33;1
+Gestão da Produção;Matemática financeira;2;2;4.9;4;7;M;26;2;1;25;1
+Gestão da Produção;Métodos Estatísticos;3;1;5.3;5;0;F;18;3;7;30;
+Gestão da Produção;Matemática financeira;2;2;5.4;3;0;M;20;1;1;25;1
+Gestão da Produção;Métodos Estatísticos;3;1;5.4;4;0;F;32;3;3;42;1
+Engenharia de Produção;Métodos Estatísticos;3;1;5.5;0;1;F;21;2;3;20;1
+Administração;Cálculo A;3;1;5.5;2;2;F;28;1;6;25;0
+Administração;Matemática financeira;2;1;5.6;2;0;M;25;1;1;43;1
+Gestão da Produção;Métodos Estatísticos;3;1;5.6;4;2;M;18;3;4;35;1
+Gestão da Produção;Gestão de Projetos;1;1;5.7;0;0;F;20;2;2;35;0
+Engenharia de Produção;Cálculo B;3;1;5.7;0;0;M;24;1;3;25;0
+Gestão da Produção;Métodos Estatísticos;3;2;5.7;1;0;F;22;1;4;50;0
+Engenharia de Produção;Métodos Estatísticos;3;1;5.7;1;0;M;19;2;6;35;1
+Administração;Planejamento contábil;2;1;5.8;3;0;F;30;1;1;25;0
+Administração;Gestão de Projetos;1;2;5.8;3;0;M;25;1;2;41;0
+Administração;Comportamento do consumidor;1;2;5.8;3;0;F;21;1;3;40;0
+Administração;Estratégias de marketing;1;1;5.8;4;2;F;20;1;3;41;0
+Administração;Matemática financeira;2;1;5.8;0;0;F;27;1;3;41;0
+Administração;Métodos Estatísticos;3;2;5.8;0;1;M;22;2;3;42;0
+Gestão da Produção;Matemática financeira;2;2;5.8;5;3;F;24;1;5;41;1
+Administração;Gestão de Projetos;1;1;5.8;4;0;F;32;1;6;35;0
+Engenharia de Produção;Gestão de Projetos;1;1;5.8;1;0;M;21;1;7;24;
+Gestão da Produção;Matemática financeira;2;1;5.9;3;5;M;18;1;3;43;1
+Gestão da Produção;Métodos Estatísticos;3;1;6.1;2;2;M;21;2;5;36;1
+Gestão da Produção;Métodos Estatísticos;3;1;6.2;5;0;M;19;1;3;42;1
+Gestão da Produção;Métodos Estatísticos;3;1;6.3;1;3;M;30;3;1;41;1
+Gestão da Produção;Métodos Estatísticos;3;2;6.3;2;0;F;18;2;3;50;1
+Administração;Matemática financeira;2;1;6.3;2;0;M;19;2;5;35;1
+Administração;Cálculo A;3;1;6.3;1;1;M;22;3;6;40;1
+Engenharia de Produção;Cálculo A;3;1;6.4;0;1;M;26;1;1;41;0
+Engenharia de Produção;Cálculo B;3;1;6.4;3;0;M;19;1;1;28;1
+Administração;Estratégias de marketing;1;2;6.4;3;0;F;27;3;1;35;0
+Engenharia de Produção;Gestão de Projetos;1;1;6.4;0;0;F;22;1;1;35;0
+Gestão da Produção;Gestão de Projetos;1;2;6.4;0;3;M;23;2;1;35;0
+Administração;Métodos Estatísticos;3;1;6.4;0;0;F;23;2;1;30;0
+Administração;Planejamento contábil;2;1;6.4;2;0;F;27;3;1;30;0
+Administração;Comportamento do consumidor;1;2;6.4;0;0;F;25;1;2;40;0
+Gestão da Produção;Gestão de Projetos;1;1;6.4;0;1;M;24;2;2;40;0
+Gestão da Produção;Métodos Estatísticos;3;1;6.4;1;8;M;23;3;2;33;1
+Gestão da Produção;Métodos Estatísticos;3;2;6.4;0;4;M;25;2;2;25;0
+Administração;Cálculo A;3;1;6.4;0;0;F;24;2;3;33;0
+Administração;Estratégias de marketing;1;1;6.4;1;0;F;30;1;3;43;0
+Administração;Gestão de Projetos;1;1;6.4;0;0;M;22;3;3;42;0
+Administração;Matemática financeira;2;1;6.4;3;0;M;25;1;3;43;0
+Gestão da Produção;Métodos Estatísticos;3;1;6.4;2;4;M;21;3;3;42;1
+Administração;Planejamento contábil;2;1;6.4;2;0;F;25;1;3;20;0
+Administração;Métodos Estatísticos;3;1;6.4;0;0;F;22;2;4;33;0
+Gestão da Produção;Métodos Estatísticos;3;1;6.4;0;0;F;27;1;4;20;0
+Gestão da Produção;Métodos Estatísticos;3;1;6.4;0;5;M;23;2;4;24;0
+Administração;Métodos Estatísticos;3;2;6.4;1;10;M;18;2;4;50;1
+Administração;Cálculo A;3;1;6.4;3;0;F;28;2;5;32;0
+Administração;Estratégias de marketing;1;1;6.4;0;0;M;23;1;5;43;0
+Gestão da Produção;Matemática financeira;2;2;6.4;0;1;M;23;1;5;30;0
+Engenharia de Produção;Métodos Estatísticos;3;1;6.4;0;0;M;24;2;5;24;0
+Gestão da Produção;Métodos Estatísticos;3;2;6.4;0;2;M;28;1;5;42;1
+Administração;Gestão de Projetos;1;1;6.4;5;0;M;26;1;6;24;0
+Administração;Matemática financeira;2;1;6.4;0;0;F;30;1;6;33;0
+Engenharia de Produção;Cálculo B;3;1;6.4;0;2;M;24;1;7;35;
+Administração;Gestão de Projetos;1;2;6.4;0;0;M;21;3;7;46;
+Administração;Cálculo A;3;1;6.5;0;4;F;19;2;1;43;1
+Administração;Cálculo A;3;1;6.5;0;0;F;27;2;1;25;0
+Administração;Métodos Estatísticos;3;2;6.5;0;2;F;18;3;2;33;1
+Administração;Comportamento do consumidor;1;1;6.5;0;0;M;19;2;3;41;0
+Gestão da Produção;Métodos Estatísticos;3;1;6.5;0;0;M;29;1;3;41;0
+Gestão da Produção;Métodos Estatísticos;3;2;6.5;0;0;M;21;1;3;43;0
+Administração;Gestão de Projetos;1;1;6.5;2;0;F;26;1;4;43;0
+Engenharia de Produção;Cálculo A;3;1;6.5;0;0;M;21;2;5;39;0
+Engenharia de Produção;Cálculo B;3;1;6.5;0;5;F;18;1;5;29;1
+Administração;Comportamento do consumidor;1;1;6.5;1;5;F;21;2;5;42;0
+Administração;Estratégias de marketing;1;1;6.5;0;0;M;23;1;5;23;0
+Gestão da Produção;Gestão de Projetos;1;2;6.5;0;7;M;22;1;6;50;1
+Administração;Matemática financeira;2;1;6.5;4;1;F;19;1;6;20;0
+Gestão da Produção;Métodos Estatísticos;3;1;6.5;0;0;M;25;1;6;24;0
+Administração;Planejamento contábil;2;1;6.5;1;0;F;29;2;6;30;0
+Administração;Métodos Estatísticos;3;2;6.5;0;0;M;21;2;7;40;
+Administração;Comportamento do consumidor;1;2;6.6;1;0;F;21;1;1;43;0
+Gestão da Produção;Gestão de Projetos;1;1;6.6;0;1;M;21;1;1;25;1
+Gestão da Produção;Matemática financeira;2;2;6.6;0;0;F;25;1;1;36;1
+Administração;Cálculo A;3;1;6.6;0;0;F;20;2;2;40;0
+Gestão da Produção;Gestão de Projetos;1;1;6.6;2;0;M;25;1;3;25;0
+Administração;Gestão de Projetos;1;2;6.6;1;0;F;20;2;3;41;1
+Administração;Planejamento contábil;2;1;6.6;0;0;F;26;1;3;30;0
+Engenharia de Produção;Gestão de Projetos;1;1;6.6;1;0;M;26;1;4;20;0
+Gestão da Produção;Métodos Estatísticos;3;1;6.6;0;0;M;24;2;4;35;0
+Administração;Métodos Estatísticos;3;2;6.6;0;0;F;20;3;4;50;0
+Administração;Gestão de Projetos;1;1;6.6;0;0;F;19;3;5;35;0
+Administração;Matemática financeira;2;1;6.6;0;0;M;21;2;5;30;0
+Administração;Matemática financeira;2;1;6.6;0;0;F;22;2;5;41;1
+Engenharia de Produção;Cálculo B;3;1;6.6;0;0;M;25;1;6;25;0
+Gestão da Produção;Matemática financeira;2;1;6.7;0;0;F;24;3;5;41;0
+Gestão da Produção;Matemática financeira;2;1;6.8;1;0;M;18;3;5;24;1
+Administração;Comportamento do consumidor;1;1;7,0;1;3;F;21;1;1;42;0
+Administração;Gestão de Projetos;1;1;7,0;0;0;F;23;2;1;20;0
+Gestão da Produção;Métodos Estatísticos;3;1;7,0;0;0;F;21;1;1;42;0
+Gestão da Produção;Métodos Estatísticos;3;1;7,0;0;0;F;24;1;1;25;0
+Administração;Cálculo A;3;1;7,0;2;0;M;24;1;2;33;1
+Administração;Cálculo A;3;1;7,0;0;0;M;26;1;2;41;0
+Engenharia de Produção;Cálculo A;3;1;7,0;0;1;M;35;1;2;30;0
+Gestão da Produção;Gestão de Projetos;1;2;7,0;0;3;F;24;2;2;35;0
+Administração;Matemática financeira;2;1;7,0;0;2;M;32;3;2;42;0
+Administração;Planejamento contábil;2;1;7,0;2;0;F;25;1;2;35;0
+Administração;Métodos Estatísticos;3;1;7,0;0;0;F;23;1;3;35;0
+Administração;Comportamento do consumidor;1;1;7,0;0;0;F;18;1;4;35;1
+Administração;Estratégias de marketing;1;1;7,0;0;2;F;18;1;4;42;0
+Administração;Gestão de Projetos;1;1;7,0;0;1;M;19;2;4;35;0
+Administração;Cálculo A;3;1;7,0;0;0;F;21;2;5;39;1
+Engenharia de Produção;Métodos Estatísticos;3;1;7,0;0;0;M;28;2;5;30;0
+Administração;Planejamento contábil;2;1;7,0;0;0;F;25;1;5;24;0
+Engenharia de Produção;Cálculo A;3;1;7,0;0;0;F;19;2;6;30;0
+Engenharia de Produção;Cálculo B;3;1;7,0;0;0;M;27;1;6;32;0
+Administração;Estratégias de marketing;1;1;7,0;1;0;F;18;1;6;42;0
+Administração;Estratégias de marketing;1;2;7,0;3;0;M;20;1;6;24;1
+Gestão da Produção;Gestão de Projetos;1;2;7,0;1;3;M;25;1;6;50;1
+Administração;Métodos Estatísticos;3;1;7,0;2;1;M;28;3;6;39;1
+Gestão da Produção;Métodos Estatísticos;3;2;7,0;1;7;M;24;1;6;50;1
+Administração;Matemática financeira;2;1;7,0;4;0;F;22;1;7;33;
+Gestão da Produção;Métodos Estatísticos;3;2;7,0;2;0;M;19;3;7;25;
+Administração;Cálculo A;3;1;7.1;0;4;M;21;2;2;25;1
+Gestão da Produção;Métodos Estatísticos;3;1;7.1;0;0;F;20;3;3;24;0
+Gestão da Produção;Métodos Estatísticos;3;2;7.1;0;0;F;29;1;3;35;0
+Gestão da Produção;Matemática financeira;2;1;7.1;0;0;F;29;1;5;23;0
+Administração;Comportamento do consumidor;1;2;7.1;2;0;F;23;1;7;50;
+Gestão da Produção;Métodos Estatísticos;3;1;7.2;0;0;F;30;3;1;35;0
+Administração;Métodos Estatísticos;3;2;7.2;0;0;M;32;1;1;35;0
+Administração;Gestão de Projetos;1;1;7.2;3;2;F;19;1;2;24;1
+Engenharia de Produção;Gestão de Projetos;1;1;7.2;4;0;F;21;1;2;41;1
+Gestão da Produção;Métodos Estatísticos;3;2;7.2;0;1;F;25;1;2;35;0
+Gestão da Produção;Matemática financeira;2;1;7.2;0;0;F;30;1;3;42;0
+Administração;Gestão de Projetos;1;1;7.2;1;3;F;29;1;4;35;0
+Engenharia de Produção;Cálculo B;3;1;7.2;0;0;F;23;3;5;25;0
+Gestão da Produção;Métodos Estatísticos;3;1;7.2;0;0;M;26;1;5;24;0
+Administração;Planejamento contábil;2;1;7.2;0;0;M;20;3;5;33;0
+Gestão da Produção;Gestão de Projetos;1;2;7.2;2;0;M;22;1;6;39;1
+Administração;Matemática financeira;2;1;7.2;1;0;F;22;3;6;20;0
+Engenharia de Produção;Cálculo B;3;1;7.3;0;0;F;28;1;1;25;0
+Administração;Comportamento do consumidor;1;2;7.3;1;3;F;19;2;1;33;1
+Engenharia de Produção;Gestão de Projetos;1;1;7.3;0;0;M;18;1;1;24;0
+Administração;Gestão de Projetos;1;1;7.3;0;0;F;20;1;1;20;0
+Gestão da Produção;Métodos Estatísticos;3;1;7.3;0;0;M;18;1;1;33;0
+Administração;Métodos Estatísticos;3;2;7.3;0;0;F;25;2;1;43;1
+Administração;Métodos Estatísticos;3;2;7.3;2;0;F;20;2;1;35;0
+Engenharia de Produção;Cálculo B;3;1;7.3;0;0;M;25;2;2;30;0
+Administração;Métodos Estatísticos;3;2;7.3;1;4;M;19;1;2;20;1
+Administração;Planejamento contábil;2;1;7.3;1;0;M;26;3;2;40;0
+Administração;Cálculo A;3;1;7.3;0;0;M;20;2;3;30;0
+Administração;Comportamento do consumidor;1;1;7.3;0;0;F;22;1;3;43;0
+Gestão da Produção;Gestão de Projetos;1;1;7.3;0;0;F;20;1;3;40;0
+Administração;Matemática financeira;2;1;7.3;1;0;M;20;2;3;25;0
+Gestão da Produção;Matemática financeira;2;1;7.3;2;0;M;21;2;3;30;0
+Engenharia de Produção;Métodos Estatísticos;3;1;7.3;2;0;M;25;3;3;40;0
+Gestão da Produção;Métodos Estatísticos;3;1;7.3;1;0;M;22;1;3;24;0
+Gestão da Produção;Métodos Estatísticos;3;2;7.3;0;0;M;25;1;3;42;0
+Gestão da Produção;Métodos Estatísticos;3;2;7.3;0;0;M;28;2;3;33;0
+Administração;Comportamento do consumidor;1;2;7.3;1;4;M;27;3;4;24;0
+Administração;Gestão de Projetos;1;1;7.3;1;1;M;19;1;4;35;0
+Engenharia de Produção;Gestão de Projetos;1;1;7.3;0;4;M;20;1;4;25;0
+Administração;Gestão de Projetos;1;1;7.3;0;0;F;19;1;4;41;0
+Administração;Matemática financeira;2;1;7.3;0;3;M;21;2;4;30;0
+Administração;Planejamento contábil;2;1;7.3;0;2;M;30;3;4;30;0
+Engenharia de Produção;Cálculo B;3;1;7.3;1;0;M;20;1;5;24;0
+Administração;Gestão de Projetos;1;1;7.3;1;0;F;19;2;5;30;1
+Gestão da Produção;Gestão de Projetos;1;1;7.3;0;0;F;27;2;5;25;0
+Administração;Gestão de Projetos;1;2;7.3;0;0;F;22;1;5;50;1
+Administração;Matemática financeira;2;1;7.3;0;0;M;26;1;5;30;0
+Gestão da Produção;Matemática financeira;2;2;7.3;0;0;M;28;1;5;40;0
+Gestão da Produção;Métodos Estatísticos;3;1;7.3;0;0;M;29;1;5;40;0
+Gestão da Produção;Métodos Estatísticos;3;1;7.3;0;0;F;19;1;5;25;0
+Engenharia de Produção;Cálculo A;3;1;7.3;0;0;M;23;2;6;35;0
+Administração;Cálculo A;3;1;7.3;0;0;F;21;1;6;24;0
+Administração;Estratégias de marketing;1;1;7.3;1;1;M;19;1;6;30;0
+Administração;Estratégias de marketing;1;2;7.3;0;0;M;20;1;6;35;0
+Administração;Estratégias de marketing;1;2;7.3;0;2;F;20;1;6;41;0
+Gestão da Produção;Gestão de Projetos;1;2;7.3;0;0;M;18;1;6;42;0
+Administração;Gestão de Projetos;1;2;7.3;2;0;F;24;1;6;33;0
+Administração;Matemática financeira;2;1;7.3;2;3;F;18;1;6;35;1
+Administração;Cálculo A;3;1;7.3;1;0;F;20;2;7;24;
+Administração;Matemática financeira;2;1;7.3;0;1;F;24;2;7;42;
+Administração;Planejamento contábil;2;1;7.3;0;0;F;20;3;7;25;
+Engenharia de Produção;Gestão de Projetos;1;1;7.4;0;0;M;19;3;1;43;0
+Administração;Métodos Estatísticos;3;2;7.4;1;2;F;21;1;1;36;1
+Administração;Cálculo A;3;1;7.4;1;0;F;33;3;2;40;0
+Gestão da Produção;Matemática financeira;2;1;7.4;0;2;M;25;1;2;35;0
+Administração;Matemática financeira;2;1;7.4;0;0;F;29;1;2;41;0
+Gestão da Produção;Métodos Estatísticos;3;2;7.4;0;1;F;19;1;2;35;0
+Administração;Matemática financeira;2;1;7.4;2;0;M;23;1;4;36;1
+Gestão da Produção;Métodos Estatísticos;3;1;7.4;0;0;F;20;1;5;41;0
+Administração;Gestão de Projetos;1;2;7.4;1;0;F;23;1;6;24;1
+Gestão da Produção;Métodos Estatísticos;3;1;7.4;0;3;F;32;1;6;33;0
+Engenharia de Produção;Cálculo B;3;1;7.4;0;0;F;21;1;7;42;
+Administração;Comportamento do consumidor;1;2;7.4;0;0;F;23;1;7;25;
+Administração;Gestão de Projetos;1;1;7.4;0;5;F;37;1;7;33;
+Gestão da Produção;Métodos Estatísticos;3;1;7.4;3;2;M;25;2;7;35;
+Engenharia de Produção;Cálculo A;3;1;7.5;0;3;F;21;2;1;41;1
+Administração;Cálculo A;3;1;7.5;0;0;F;29;2;1;40;0
+Administração;Comportamento do consumidor;1;1;7.5;0;1;M;20;2;1;25;0
+Administração;Gestão de Projetos;1;2;7.5;2;0;M;24;1;1;33;1
+Administração;Matemática financeira;2;1;7.5;1;2;F;19;1;1;40;1
+Gestão da Produção;Métodos Estatísticos;3;1;7.5;1;0;M;21;1;1;25;0
+Administração;Planejamento contábil;2;1;7.5;1;0;M;25;2;1;25;0
+Administração;Cálculo A;3;1;7.5;0;0;M;21;1;2;35;0
+Engenharia de Produção;Gestão de Projetos;1;1;7.5;0;0;M;29;1;2;42;0
+Gestão da Produção;Gestão de Projetos;1;2;7.5;1;1;M;26;2;2;40;1
+Gestão da Produção;Matemática financeira;2;1;7.5;1;0;F;18;1;2;30;0
+Gestão da Produção;Métodos Estatísticos;3;1;7.5;0;0;M;28;2;3;40;0
+Gestão da Produção;Métodos Estatísticos;3;2;7.5;0;0;F;23;1;3;42;0
+Administração;Cálculo A;3;1;7.5;3;1;M;26;1;4;30;1
+Engenharia de Produção;Cálculo B;3;1;7.5;0;0;F;24;1;4;24;0
+Administração;Estratégias de marketing;1;2;7.5;0;2;F;18;1;4;50;0
+Administração;Matemática financeira;2;1;7.5;3;3;M;20;2;4;40;0
+Administração;Métodos Estatísticos;3;2;7.5;0;4;M;25;1;4;40;0
+Administração;Estratégias de marketing;1;1;7.5;0;1;F;20;1;5;20;0
+Administração;Gestão de Projetos;1;1;7.5;1;2;F;30;3;5;20;0
+Administração;Gestão de Projetos;1;2;7.5;0;3;M;24;3;5;50;0
+Administração;Matemática financeira;2;1;7.5;0;1;M;23;1;5;28;1
+Gestão da Produção;Métodos Estatísticos;3;1;7.5;0;2;F;23;1;5;35;0
+Administração;Comportamento do consumidor;1;2;7.5;0;0;M;25;2;6;20;0
+Engenharia de Produção;Gestão de Projetos;1;1;7.5;0;2;F;27;1;6;30;0
+Gestão da Produção;Métodos Estatísticos;3;2;7.5;0;4;M;20;3;6;50;1
+Administração;Métodos Estatísticos;3;2;7.5;2;0;F;21;2;6;50;1
+Gestão da Produção;Matemática financeira;2;2;7.5;0;0;F;22;1;7;41;
+Gestão da Produção;Métodos Estatísticos;3;1;7.5;3;0;F;24;1;7;20;
+Administração;Planejamento contábil;2;1;7.5;1;1;F;22;2;7;43;
+Gestão da Produção;Gestão de Projetos;1;1;7.9;2;0;M;24;1;1;35;1
+Administração;Matemática financeira;2;1;7.9;1;0;M;22;1;1;41;0
+Gestão da Produção;Matemática financeira;2;2;7.9;0;6;F;20;2;1;33;1
+Engenharia de Produção;Métodos Estatísticos;3;1;7.9;1;5;M;25;1;1;43;1
+Gestão da Produção;Métodos Estatísticos;3;1;7.9;0;0;M;19;3;1;42;0
+Administração;Métodos Estatísticos;3;2;7.9;1;1;M;27;1;1;40;1
+Administração;Planejamento contábil;2;1;7.9;1;0;M;21;2;1;33;0
+Administração;Cálculo A;3;1;7.9;0;0;M;27;2;2;41;0
+Engenharia de Produção;Cálculo B;3;1;7.9;0;1;F;20;1;2;25;0
+Engenharia de Produção;Cálculo B;3;1;7.9;0;0;F;22;2;3;25;0
+Gestão da Produção;Métodos Estatísticos;3;1;7.9;2;0;F;23;1;3;41;1
+Gestão da Produção;Métodos Estatísticos;3;1;7.9;2;0;F;24;1;3;20;0
+Administração;Gestão de Projetos;1;1;7.9;0;1;M;23;1;4;42;0
+Administração;Comportamento do consumidor;1;2;7.9;0;1;F;35;2;5;30;0
+Administração;Gestão de Projetos;1;2;7.9;1;2;F;23;1;5;20;0
+Administração;Matemática financeira;2;1;7.9;0;3;M;23;2;5;36;1
+Administração;Métodos Estatísticos;3;1;7.9;0;1;F;23;1;5;24;0
+Administração;Planejamento contábil;2;1;7.9;0;3;M;19;3;5;35;0
+Administração;Cálculo A;3;1;7.9;0;0;F;19;1;6;30;0
+Administração;Estratégias de marketing;1;1;7.9;0;0;F;22;2;6;41;0
+Engenharia de Produção;Gestão de Projetos;1;1;7.9;2;3;M;23;1;6;30;1
+Gestão da Produção;Matemática financeira;2;1;7.9;0;0;M;27;3;6;42;0
+Administração;Comportamento do consumidor;1;2;7.9;0;0;F;18;3;7;50;
+Administração;Gestão de Projetos;1;1;7.9;1;0;M;32;1;7;42;
+Engenharia de Produção;Gestão de Projetos;1;1;7.9;0;0;F;23;3;7;24;
+Administração;Gestão de Projetos;1;2;7.9;1;0;F;32;1;7;42;
+Gestão da Produção;Métodos Estatísticos;3;2;7.9;1;2;M;23;1;7;35;
+Gestão da Produção;Métodos Estatísticos;3;2;7.9;0;2;F;23;1;7;40;
+Administração;Gestão de Projetos;1;2;8,0;0;0;F;18;2;1;42;0
+Administração;Estratégias de marketing;1;1;8,0;1;0;M;22;1;2;24;0
+Administração;Matemática financeira;2;1;8,0;0;0;M;27;1;2;24;0
+Administração;Métodos Estatísticos;3;2;8,0;0;2;M;23;1;2;30;0
+Engenharia de Produção;Cálculo A;3;1;8,0;1;0;M;19;2;3;20;1
+Administração;Comportamento do consumidor;1;1;8,0;0;0;F;22;1;3;43;0
+Administração;Matemática financeira;2;1;8,0;3;0;F;21;2;3;30;1
+Engenharia de Produção;Gestão de Projetos;1;1;8,0;0;3;F;19;1;4;40;0
+Gestão da Produção;Gestão de Projetos;1;2;8,0;2;2;F;24;3;4;40;1
+Gestão da Produção;Métodos Estatísticos;3;1;8,0;0;4;F;23;3;4;20;0
+Administração;Cálculo A;3;1;8,0;0;2;M;22;3;5;30;0
+Administração;Cálculo A;3;1;8,0;1;2;F;25;1;6;35;1
+Administração;Planejamento contábil;2;1;8,0;0;1;F;21;3;6;42;1
+Engenharia de Produção;Métodos Estatísticos;3;1;8,0;1;0;F;27;1;7;30;
+Gestão da Produção;Métodos Estatísticos;3;1;8,0;0;0;F;23;2;7;41;
+Administração;Planejamento contábil;2;1;8,0;0;0;M;21;1;7;41;
+Gestão da Produção;Gestão de Projetos;1;1;8.2;0;5;M;24;3;1;41;0
+Administração;Planejamento contábil;2;1;8.2;0;0;F;22;1;1;30;0
+Administração;Cálculo A;3;1;8.2;0;0;F;19;2;3;35;0
+Administração;Gestão de Projetos;1;1;8.2;0;0;M;20;1;3;40;0
+Administração;Matemática financeira;2;1;8.2;2;0;F;18;3;3;42;0
+Administração;Métodos Estatísticos;3;2;8.2;1;0;M;21;1;3;28;1
+Engenharia de Produção;Cálculo B;3;1;8.2;0;0;F;25;1;4;20;0
+Administração;Estratégias de marketing;1;2;8.2;0;0;M;33;1;4;50;0
+Gestão da Produção;Gestão de Projetos;1;1;8.2;1;0;F;19;1;4;37;1
+Administração;Matemática financeira;2;1;8.2;1;0;M;18;1;4;30;1
+Engenharia de Produção;Gestão de Projetos;1;1;8.2;0;0;M;25;2;5;43;0
+Administração;Gestão de Projetos;1;2;8.2;0;3;F;20;2;5;35;1
+Administração;Comportamento do consumidor;1;2;8.2;0;1;F;26;2;6;23;0
+Administração;Estratégias de marketing;1;2;8.4;1;0;F;19;2;3;35;0
+Administração;Matemática financeira;2;1;8.4;0;0;F;27;1;5;43;0
+Administração;Métodos Estatísticos;3;1;8.5;0;0;M;29;1;1;30;0
+Administração;Estratégias de marketing;1;2;8.5;0;0;M;18;1;2;30;0
+Engenharia de Produção;Métodos Estatísticos;3;1;8.5;0;0;M;28;1;2;33;0
+Administração;Cálculo A;3;1;8.5;0;0;M;25;1;3;42;0
+Administração;Comportamento do consumidor;1;1;8.5;0;0;F;27;2;3;43;0
+Administração;Gestão de Projetos;1;1;8.5;0;0;M;28;1;3;41;0
+Gestão da Produção;Métodos Estatísticos;3;2;8.5;4;0;M;24;1;3;40;1
+Administração;Planejamento contábil;2;1;8.5;4;0;F;24;1;3;42;0
+Engenharia de Produção;Cálculo A;3;1;8.5;0;0;M;25;1;4;24;0
+Gestão da Produção;Gestão de Projetos;1;2;8.5;1;6;M;22;3;4;41;1
+Gestão da Produção;Métodos Estatísticos;3;1;8.5;0;0;F;26;1;4;24;0
+Administração;Cálculo A;3;1;8.5;1;1;F;22;2;5;40;1
+Administração;Estratégias de marketing;1;1;8.5;0;2;M;26;3;5;43;0
+Administração;Matemática financeira;2;1;8.5;1;1;F;22;1;7;33;
+Administração;Métodos Estatísticos;3;1;8.5;0;0;F;24;1;7;35;
+Administração;Estratégias de marketing;1;2;8.6;2;0;M;23;1;4;42;0
+Administração;Matemática financeira;2;1;8.7;0;3;M;25;1;5;33;0
+Administração;Matemática financeira;2;1;8.9;0;0;F;20;1;5;41;0
+Administração;Estratégias de marketing;1;1;9,0;0;0;F;30;1;1;20;0
+Gestão da Produção;Métodos Estatísticos;3;2;9,0;0;0;M;20;1;1;50;1
+Administração;Matemática financeira;2;1;9,0;0;0;M;24;3;2;40;0
+Administração;Planejamento contábil;2;1;9,0;0;1;F;23;2;2;30;0
+Administração;Cálculo A;3;1;9,0;0;0;F;25;1;3;30;0
+Gestão da Produção;Gestão de Projetos;1;1;9,0;0;0;M;20;3;3;41;0
+Gestão da Produção;Gestão de Projetos;1;2;9,0;0;0;M;18;1;3;20;0
+Administração;Métodos Estatísticos;3;1;9,0;1;0;M;23;1;3;42;1
+Administração;Métodos Estatísticos;3;1;9,0;0;0;M;23;1;3;35;0
+Engenharia de Produção;Métodos Estatísticos;3;1;9,0;0;0;M;21;2;3;24;0
+Engenharia de Produção;Cálculo A;3;1;9,0;0;0;M;25;2;4;42;0
+Gestão da Produção;Métodos Estatísticos;3;1;9,0;0;0;M;33;1;4;40;0
+Administração;Comportamento do consumidor;1;1;9,0;0;2;M;23;1;5;20;0
+Administração;Planejamento contábil;2;1;9,0;0;0;M;20;1;5;41;0
+Administração;Gestão de Projetos;1;1;9,0;0;1;M;28;1;6;30;0
+Gestão da Produção;Métodos Estatísticos;3;1;9,0;0;1;F;26;1;6;41;0
+Administração;Cálculo A;3;1;9,0;0;0;M;18;1;7;42;
+Administração;Estratégias de marketing;1;2;9,0;0;0;M;26;1;7;40;
+Engenharia de Produção;Cálculo A;3;1;9.2;0;0;M;20;3;1;24;0
+Administração;Matemática financeira;2;1;9.2;0;0;M;26;1;2;35;0
+Engenharia de Produção;Métodos Estatísticos;3;1;9.2;0;0;F;26;2;2;41;0
+Administração;Planejamento contábil;2;1;9.2;0;0;F;25;2;2;33;0
+Administração;Cálculo A;3;1;9.2;1;0;M;27;1;3;30;1
+Administração;Comportamento do consumidor;1;1;9.2;0;1;M;21;3;3;40;0
+Administração;Estratégias de marketing;1;1;9.2;1;0;M;24;2;3;24;0
+Administração;Métodos Estatísticos;3;1;9.2;0;3;M;24;2;3;35;1
+Administração;Métodos Estatísticos;3;1;9.2;0;0;F;25;1;3;25;0
+Administração;Gestão de Projetos;1;1;9.2;0;1;M;25;3;5;25;0
+Gestão da Produção;Métodos Estatísticos;3;1;9.2;0;2;F;22;2;5;33;0
+Gestão da Produção;Gestão de Projetos;1;2;9.2;0;0;M;26;1;6;30;0
+Administração;Planejamento contábil;2;1;9.2;0;1;F;35;1;6;30;0
+Administração;Cálculo A;3;1;9.2;0;0;M;33;3;7;20;
+Gestão da Produção;Métodos Estatísticos;3;1;9.2;0;1;M;30;1;7;40;
+Administração;Cálculo A;3;1;9.3;0;2;F;21;1;1;29;1
+Administração;Comportamento do consumidor;1;1;9.3;0;0;M;24;1;1;43;0
+Engenharia de Produção;Métodos Estatísticos;3;1;9.3;0;0;F;22;1;1;33;0
+Administração;Planejamento contábil;2;1;9.3;0;2;M;22;2;2;43;0
+Administração;Estratégias de marketing;1;1;9.3;0;1;M;23;1;3;33;0
+Gestão da Produção;Gestão de Projetos;1;2;9.3;0;0;F;19;1;3;24;0
+Gestão da Produção;Métodos Estatísticos;3;1;9.3;0;0;M;19;1;4;35;0
+Administração;Planejamento contábil;2;1;9.3;0;1;M;28;1;4;43;0
+Administração;Planejamento contábil;2;1;9.3;0;2;F;19;1;4;41;0
+Engenharia de Produção;Cálculo A;3;1;9.3;0;3;M;26;3;5;43;1
+Administração;Cálculo A;3;1;9.3;0;4;F;22;1;5;20;0
+Administração;Matemática financeira;2;1;9.3;0;0;F;29;2;5;41;0
+Gestão da Produção;Métodos Estatísticos;3;1;9.3;0;1;F;24;1;5;42;0
+Gestão da Produção;Gestão de Projetos;1;2;9.3;0;0;M;25;2;6;50;1
+Administração;Gestão de Projetos;1;2;9.3;0;0;M;27;1;6;50;0
+Engenharia de Produção;Gestão de Projetos;1;1;9.3;0;0;M;19;2;7;20;
+Administração;Métodos Estatísticos;3;1;9.3;0;0;F;22;1;7;33;
+Administração;Gestão de Projetos;1;1;9.4;0;1;M;30;1;1;41;0
+Engenharia de Produção;Gestão de Projetos;1;1;9.4;0;0;M;25;1;1;30;0
+Administração;Matemática financeira;2;1;9.4;0;1;M;20;1;2;25;0
+Administração;Planejamento contábil;2;1;9.4;0;0;M;23;1;2;42;0
+Administração;Cálculo A;3;1;9.4;0;1;F;19;3;3;27;1
+Engenharia de Produção;Cálculo A;3;1;9.4;0;0;M;27;1;4;35;0
+Administração;Métodos Estatísticos;3;1;9.4;0;0;F;26;1;4;24;0
+Administração;Cálculo A;3;1;9.4;1;2;F;28;1;5;41;0
+Gestão da Produção;Métodos Estatísticos;3;1;9.4;0;3;M;19;1;5;20;0
+Administração;Estratégias de marketing;1;1;9.4;0;0;M;20;3;6;40;0
+Gestão da Produção;Gestão de Projetos;1;2;9.4;0;0;M;23;2;6;50;1
+Engenharia de Produção;Métodos Estatísticos;3;1;9.4;0;0;M;27;2;6;43;0
+Gestão da Produção;Métodos Estatísticos;3;1;9.4;0;2;F;21;2;6;24;0
+Administração;Planejamento contábil;2;1;9.4;0;0;M;25;3;6;42;0
+Administração;Comportamento do consumidor;1;1;9.4;0;3;F;29;2;7;20;
+Administração;Planejamento contábil;2;1;9.4;0;0;M;21;1;7;30;
+Gestão da Produção;Gestão de Projetos;1;2;9.6;0;0;M;19;2;1;20;0
+Administração;Estratégias de marketing;1;2;9.6;0;0;M;28;1;4;20;0
+Administração;Estratégias de marketing;1;2;9.6;1;0;F;18;2;4;20;0
